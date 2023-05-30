@@ -1,9 +1,15 @@
 Professor, boa noite.
 
-Dentro deste projeto esta o codigo em si e os arquivos complementares, videos, prints e afins.
+Dentro deste projeto esta o codigo em si e os arquivos complementares, as prints de funcionamento e afins
 
-Os Prints estao presentes no Link
+O video com o seu funcionamento segue no link abaixo..
 
-Prints_do_Codigo
+https://drive.google.com/file/d/1XgqhLR5x6k3FqaQQeFaAdGqkO4rVfJHd/view?usp=share_link 
+
+FAVOR UTILIZZAR EMAIL UNINOVE.
+
+boa noite
+
+
 
 
